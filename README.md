@@ -84,4 +84,6 @@ _Kullanılan bazı bileşenler:_
 - **_Controller'lar_**
     Controller'lar, gelen HTTP isteklerini yönetir, ilgili servis ve repository'leri çağırarak işlemleri gerçekleştirir ve sonuçları HTTP yanıtı olarak döndürür. Controller'lar, istemcilerin (örneğin web tarayıcıları veya mobil uygulamalar) sisteminizle etkileşime girmesini sağlar.
 
+     - _banka klasörü ödev teslimi sırasında kredi kartı ödemeleri için yazılamamış servis olduğundan ötürü eklenmiştir. Daha önce bankaların api leri ile yapılmış testleri içerir._
+
 
